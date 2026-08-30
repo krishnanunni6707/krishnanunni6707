@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=06B6D4&center=true&vCenter=true&width=1000&lines=👨‍💻+Krishnanunni+H+Pillai;🤖+AI%2FML+Engineer+%26+Data+Scientist;🚀+Building+Intelligent+Systems;💻+Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=06B6D4&center=true&vCenter=true&width=1000&lines=Krishnanunni+H+Pillai;AI%2FML+Engineer+%26+Data+Scientist;Building+Intelligent+Systems;Full-Stack+Developer" alt="Typing SVG" />
 
 </div>
 
