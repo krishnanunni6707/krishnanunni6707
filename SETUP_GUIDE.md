@@ -73,6 +73,7 @@ git push origin main
 Add to README after first line:
 ```markdown
 ![Banner](assets/banner.gif)
+![Skills](assets/skills.png)
 ```
 
 ---

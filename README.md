@@ -4,6 +4,14 @@
 
 </div>
 
+<div align="center">
+
+![Banner](assets/banner.gif)
+
+![Skills](assets/skills.png)
+
+</div>
+
 ---
 
 ## 🚀 About Me
