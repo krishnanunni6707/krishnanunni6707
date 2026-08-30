@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Krishnanunni H Pillai
+# 👋 I'm Krishnanunni H Pillai
 
 ### `Computer Science Engineer` · `Data Scientist` · `Full-Stack Developer` · `AI/ML Enthusiast`
 
