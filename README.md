@@ -1,76 +1,85 @@
-<!-- Banner Image -->
+<!-- Header Banner from Cool-GIFs-For-GitHub -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/73/d3/a1/73d3a14d212314ab1f7268b71d639c15.gif" width="100%" alt="Tech Banner">
-</div>
-
-<!-- Header Section -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > Hi there, I'm Krishnanunni H Pillai
-</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Developer;Self-hosted+AI+%2F+ML+Systems;Full-stack+Web+Development;Malayalam+Language+Tech" alt="Typing SVG" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8ac5b669-4e9c-4dcf-9ef9-b7992a4a3a42" width="100%" alt="Welcome Banner" />
 </div>
 
 <br>
 
-<!-- Social Links (Moved to the top for better visibility) -->
+<h1 align="center">
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" > I'm Krishnanunni H Pillai
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Software+Developer;Self-hosted+AI+%2F+ML+Systems;Full-stack+Web+Development;Malayalam+Language+Tech" alt="Typing SVG" />
+</div>
+
+<br>
+
+<!-- Socials Bar -->
 <div align="center">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
-<!-- About Me Section -->
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px" align="center"></picture> About Me
+<table align="center" style="border:none;">
+<tr style="border:none;">
+<td width="60%" style="border:none;">
 
-<img align="right" alt="Coding" width="350" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+## 👨‍💻 About Me
 
-🎓 **Who am I:** A student and software developer based in Kerala, India, building for Indian contexts.
-🔭 **Currently Building:** **Nova** — a self-hosted, bilingual (English/Malayalam) voice AI assistant.
-🌱 **Deep Diving Into:** Retrieval-Augmented Generation (RAG) pipelines using LangChain and FAISS, alongside core ML classification models.
-🔍 **Exploring:** **Pramana**, a criminal investigation case analysis tool with strict fact/assumption separation.
-🗣️ **Researching:** English↔Malayalam legal AI translation (evaluating via chrF++, IndicCOMET & LLM-as-judge).
-⚡ **Fun Fact:** I love competing in national-level hackathons and shipping fast, functional prototypes!
+- 🎓 **Who am I:** A student and software developer based in Kerala, India.
+- 🔭 **Currently Building:** **Nova** — a self-hosted, bilingual (English/Malayalam) voice AI assistant.
+- 🌱 **Deep Diving Into:** RAG pipelines (LangChain/FAISS) and core ML algorithms.
+- 🔍 **Exploring:** **Pramana**, a criminal investigation case analysis tool with strict fact/assumption separation.
+- 🗣️ **Researching:** English↔Malayalam legal AI translation (chrF++, IndicCOMET & LLM-as-judge).
+- ⚡ **Fun Fact:** I thrive in hackathons and love shipping fast, functional prototypes for Indian contexts!
 
-<br><br>
+</td>
+<td width="40%" align="center" style="border:none;">
+  <!-- Avatar / Animation from Cool-GIFs-For-GitHub -->
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="80%" alt="Developer GIF" />
+</td>
+</tr>
+</table>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
-<!-- Skills Section with GIF -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack & Tools
+## 🛠️ Technical Arsenal
 
-**Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
+<div align="center">
+  
+**Languages** <br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
-**AI/ML & Hardware:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Local_LLMs-6366F1?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-</p>
+**AI & Hardware** <br>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Local_LLMs-6366F1?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
-**Frameworks & Databases:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-</p>
+**Web & Databases** <br>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+</div>
 
-<!-- Projects Table -->
+---
+
+<!-- Cool Line Separator from Cool-GIFs-For-GitHub -->
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="80%" />
+</div>
+
 ## 🚀 Featured Projects
 
 | 🛠️ Project | 📖 Description | 💻 Stack |
@@ -81,52 +90,37 @@
 | **SilentSign** | Gesture recognition dashboard with live WebSocket display | ESP32, FastAPI, React/Vite |
 | **QDOC / C4C** | Campus print queue management system | Next.js 14, Firebase, Python |
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&layout=compact" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&column=7&row=1&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+---
 
-<!-- Fun Section -->
-### 😂 Time for a quick break!
+### 🎉 Time for a Quick Break!
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
-
 <br>
-
-### 🦜 The Party Parrots
 <div align="center">
+    <!-- Parrots (Featured in Cool-GIFs-For-GitHub) -->
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="40" height="35"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" height="35"/>
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="35" height="35"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="35" height="35"/>
 </div>
 
 <br>
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="15%">
+  <i>⭐ Always open to collaborating on AI, full-stack, or hardware projects. Feel free to explore my repos!</i>
 </p>
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-<h3 align="center"> <i>⭐ Feel free to explore my repos — always open to collaborating!</i> </h3>
