@@ -1,6 +1,6 @@
-<!-- Header Banner from Cool-GIFs-For-GitHub -->
+<!-- Header Banner (Fixed with a stable coding GIF) -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8ac5b669-4e9c-4dcf-9ef9-b7992a4a3a42" width="100%" alt="Welcome Banner" />
+  <img src="https://i.pinimg.com/originals/73/d3/a1/73d3a14d212314ab1f7268b71d639c15.gif" width="100%" alt="Welcome Banner" />
 </div>
 
 <br>
@@ -15,7 +15,7 @@
 
 <br>
 
-<!-- Socials Bar -->
+<!-- Socials Bar (Don't forget to add your actual links here!) -->
 <div align="center">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -39,8 +39,8 @@
 
 </td>
 <td width="40%" align="center" style="border:none;">
-  <!-- Avatar / Animation from Cool-GIFs-For-GitHub -->
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="80%" alt="Developer GIF" />
+  <!-- Developer Animation -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coder.gif" width="80%" alt="Developer GIF" />
 </td>
 </tr>
 </table>
@@ -75,9 +75,9 @@
 
 ---
 
-<!-- Cool Line Separator from Cool-GIFs-For-GitHub -->
+<!-- Cool Line Separator -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="80%" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/line.gif" width="80%" />
 </div>
 
 ## 🚀 Featured Projects
@@ -94,13 +94,15 @@
 
 ## 📈 GitHub Analytics
 
+<!-- CHANGE 'octocat' TO YOUR ACTUAL GITHUB USERNAME IN THE 3 LINKS BELOW -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=octocat&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -112,7 +114,7 @@
 </div>
 <br>
 <div align="center">
-    <!-- Parrots (Featured in Cool-GIFs-For-GitHub) -->
+    <!-- Parrots -->
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="35" height="35"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" height="35"/>
