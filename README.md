@@ -1,14 +1,11 @@
-<!-- Header Banner from Cool-GIFs-For-GitHub -->
+<!-- Header Banner - capsule-render, reliable hotlink -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8ac5b669-4e9c-4dcf-9ef9-b7992a4a3a42" width="100%" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Krishnanunni%20H%20Pillai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=55&descSize=18" width="100%" alt="Welcome Banner" />
 </div>
 
 <br>
 
-<h1 align="center">
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" > I'm Krishnanunni H Pillai
-</h1>
-
+<!-- Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Software+Developer;Self-hosted+AI+%2F+ML+Systems;Full-stack+Web+Development;Malayalam+Language+Tech" alt="Typing SVG" />
 </div>
@@ -50,7 +47,7 @@
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  
+
 **Languages** <br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -75,9 +72,9 @@
 
 ---
 
-<!-- Cool Line Separator from Cool-GIFs-For-GitHub -->
+<!-- Line Separator - capsule-render, reliable hotlink -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header&width=80%25" width="80%" />
 </div>
 
 ## 🚀 Featured Projects
@@ -96,7 +93,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
